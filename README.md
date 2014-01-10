@@ -14,3 +14,6 @@ In order to use the app:
 3.  Restart Spotify
 4.  Go to menu Develop / Show bundle Manager / Apps 
 5.  and click on wakeMeUp!
+
+
+![capture](/capture.png)
