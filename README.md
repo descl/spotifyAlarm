@@ -16,4 +16,4 @@ In order to use the app:
 5.  and click on wakeMeUp!
 
 
-![capture](/capture.png)
+![capture](https://raw2.github.com/descl/spotifyAlarm/master/capture.png)
